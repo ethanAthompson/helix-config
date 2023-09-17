@@ -1,0 +1,4 @@
+
+[[language]]
+name = "cpp"
+language-server = { command = "clangd", args=["--compile-commands-dir=compile_commands_directory"]}
