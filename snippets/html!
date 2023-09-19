@@ -1,0 +1,13 @@
+echo '<!doctype html>'
+echo '<html> '
+echo '<head> '
+echo ' 	<title>Html Snippet</title>'
+echo '  <meta name="description" content="Our first page"> '
+echo '  <meta name="keywords" content="html tutorial template"> '
+echo '</head>'
+
+echo '<body>'
+echo '  Content goes here.'
+echo '</body>'
+echo '</html>'
+
