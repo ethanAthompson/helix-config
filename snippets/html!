@@ -1,5 +1,5 @@
 echo '<!doctype html>'
-echo '<html> '
+echo '<html lang="en"> '
 echo '<head> '
 echo ' 	<title>Html Snippet</title>'
 echo '  <meta name="description" content="Our first page"> '

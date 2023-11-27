@@ -1,5 +1,4 @@
-theme = "everforest_dark"
-
+theme = "transparent"
 
 [editor]
 line-number = "relative"
@@ -13,4 +12,5 @@ esc = ["collapse_selection", "keep_primary_selection"]
 insert = "bar"
 
 
-
+[editor.file-picker]
+hidden = false

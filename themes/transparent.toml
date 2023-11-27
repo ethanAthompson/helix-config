@@ -1,0 +1,8 @@
+
+# Inherits the theme ever blush
+inherits = "heisenberg"
+
+# Sets the ever blush background ui to nothing; in this case transparent
+"ui.background" ={}
+
+
