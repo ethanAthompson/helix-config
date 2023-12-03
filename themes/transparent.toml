@@ -1,8 +1,29 @@
 
 # Inherits the theme ever blush
-inherits = "heisenberg"
+# inherits = "dark_plus" # 1
+inherits = "gruvbox_dark_hard" # 2
+# inherits = "varua" # 3
+# inherits = "heisenberg"
+# inherits = "pop-dark"
+# inherits = "sonokai"
+# inherits = "onedark"
+# inherits = "onedarker"
+# inherits = "sonokai"
+# inherits = "monokai_pro_spectrum"
+# inherits = "molokai"
+# inherits = "kanagawa"
+# inherits = "everforest_dark"
+# inherits = "adwaita-dark"
+# inherits = "autumn_night"
+# inherits = "ayu_dark"
+# inherits = "ayu_evolve"
+# inherits = "ayu_mirage"
+# inherits = "catppuccin_mocha"
+# inherits = "everblush"
 
 # Sets the ever blush background ui to nothing; in this case transparent
 "ui.background" ={}
+
+
 
 
