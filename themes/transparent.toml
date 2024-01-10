@@ -1,7 +1,7 @@
 
 # Inherits the theme ever blush
-# inherits = "dark_plus" # 1
-inherits = "gruvbox_dark_hard" # 2
+inherits = "dark_plus" # 1
+# inherits = "gruvbox_dark_hard" # 2
 # inherits = "varua" # 3
 # inherits = "heisenberg"
 # inherits = "pop-dark"
